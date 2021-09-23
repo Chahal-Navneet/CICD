@@ -1,4 +1,4 @@
-# docker-whale
+# CICD
 
 Run : `docker run -p80:80 nvneetchahal/whale-example`
 
